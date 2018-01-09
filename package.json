@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "arkdata@1.0.30",
+        "scope": null,
+        "escapedName": "arkdata",
+        "name": "arkdata",
+        "rawSpec": "1.0.30",
+        "spec": "1.0.30",
+        "type": "version"
+      },
+      "D:\\Github\\NodeJS-ArkService"
+    ]
+  ],
+  "_from": "arkdata@1.0.30",
+  "_id": "arkdata@1.0.30",
+  "_inCache": true,
+  "_location": "/arkdata",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/arkdata-1.0.30.tgz_1488629111580_0.07941145449876785"
+  },
+  "_npmUser": {
+    "name": "zknight",
+    "email": "knightzac@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "arkdata@1.0.30",
+    "scope": null,
+    "escapedName": "arkdata",
+    "name": "arkdata",
+    "rawSpec": "1.0.30",
+    "spec": "1.0.30",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/arkdata/-/arkdata-1.0.30.tgz",
+  "_shasum": "2145bb04b3b3300fbb2fe5ff9ffa4ba00481563f",
+  "_shrinkwrap": null,
+  "_spec": "arkdata@1.0.30",
+  "_where": "D:\\Github\\NodeJS-ArkService",
+  "author": {
+    "name": "Zachary Knight",
+    "email": "knightzac@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/knightzac19/NodeJS-ArkData/issues"
+  },
+  "contributors": [
+    {
+      "name": "Zachary Knight",
+      "email": "knightzac@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "chunk": "0.0.2",
+    "sprintf-js": "^1.0.3",
+    "sqlite3": "^3.1.4",
+    "steam-webapi": "^0.6.5"
+  },
+  "description": "NodeJS port of AuthiQ's ARK Server Data Reader.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2145bb04b3b3300fbb2fe5ff9ffa4ba00481563f",
+    "tarball": "https://registry.npmjs.org/arkdata/-/arkdata-1.0.30.tgz"
+  },
+  "gitHead": "60324ad982c270206f75fa546a2317c7b538e83b",
+  "homepage": "https://github.com/knightzac19/NodeJS-ArkData#readme",
+  "keywords": [
+    "ark",
+    "sourcequery",
+    "steam",
+    "api"
+  ],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "zknight",
+      "email": "knightzac@gmail.com"
+    }
+  ],
+  "name": "arkdata",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knightzac19/NodeJS-ArkData.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "url": "https://github.com/knightzac19/NodeJS-ArkData",
+  "version": "1.0.30"
+}
